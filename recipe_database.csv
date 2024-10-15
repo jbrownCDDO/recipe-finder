@@ -1,4 +1,4 @@
-﻿recipe_name,meal_type,recipe_link,recipe_author
+recipe_name,meal_type,recipe_link,recipe_author
 Toast with butter,Breakfast,,
 Wheatabix,Breakfast,,
 Bakery,Breakfast,,
@@ -20,9 +20,9 @@ Cheese toastie,Lunch,,
 Hallumi burger,Lunch,,
 Shin ramen,Lunch,,
 Chickpea and beetroot salad,Lunch,,
-Spaghetti Bolognese,Dinner,,
-Chilli con carne,Dinner,,
-Tantanmen,Dinner,,
+Spaghetti bolognese,Dinner,https://www.bbc.co.uk/food/recipes/easy_spaghetti_bolognese_93639,Chris Bell
+Chilli con carne,Dinner,https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe,BBC Good Food
+Tantanmen,Dinner,https://thewoksoflife.com/tan-tan-ramen/#recipe,The woks of life
 Fried rice,Dinner,,
 Roast vegetable with tahini,Dinner,,
 Pizza,Dinner,,
@@ -31,32 +31,32 @@ Mushroom pasta,Dinner,,
 Lasagna,Dinner,,
 Sushi,Dinner,,
 Soba and edamame,Dinner,,
-Mabo Tofu,Dinner,,
-Chickpea Curry,Dinner,,
+Mapo tofu,Dinner,https://www.theguardian.com/lifeandstyle/2012/jun/14/pock-marked-old-woman-s-tofu-recipe,Fuchsia Dunlop
+Chickpea curry,Dinner,,
 Pepperoncino,Dinner,,
 Thai green curry,Dinner,,
-Pad Thai,Dinner,https://www.recipetineats.com/chicken-pad-thai/,Recipe tin eats
+Pad thai,Dinner,https://www.recipetineats.com/chicken-pad-thai/,Recipe tin eats
 Singapore vermicelli noodles,Dinner,,
 Bean burger,Dinner,,
-DanDan noodles,Dinner,https://thewoksoflife.com/dan-dan-noodles/,The woks of life
+Dandan noodles,Dinner,https://thewoksoflife.com/dan-dan-noodles/,The woks of life
 Ramen,Dinner,,
-Salt and pepper chips,Dinner,,
+Salt and pepper chips,Dinner,https://www.bbcgoodfood.com/recipes/salt-and-pepper-chips,BBC Good Food
 Salt and pepper tofu,Dinner,,
-Daal and Chapatis,Dinner,,
+Daal and chapatis,Dinner,,
 Bibimbap,Dinner,,
 Tofu fish and chips,Dinner,,
-Miso Aubergine,Dinner,,
+Miso aubergine,Dinner,,
 Thai red curry,Dinner,,
 Classic spanish lentil stew,Dinner,https://spainonafork.com/classic-spanish-lentil-stew-recipe/,Albert Bevia
 Tempeh katsu curry,Dinner,,
 Aubergine katsu curry,Dinner,,
 Penne al arrabiata,Dinner,https://www.bbc.co.uk/food/recipes/pennealarrabiatapast_83813,BBC
-Rosti + Sausages,Dinner,,
+Rosti + sausages,Dinner,,
 Nut roast,Dinner,,
-Banh Mi,Dinner,,
+Banh mi,Dinner,,
 Go out to eat,Dinner,,
-Saag Aloo,Dinner,,
-Chilli Paneer,Dinner,,
+Saag aloo,Dinner,,
+Chilli paneer,Dinner,https://thehappyfoodie.co.uk/recipes/chilli-paneer/,Meera Sodha
 Spaghetti with meatballs,Dinner,,
 Falafel,Dinner,,
 Roast cauliflower,Dinner,,
